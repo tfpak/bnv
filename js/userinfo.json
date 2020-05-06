@@ -2,19 +2,22 @@
 { 
 "name":"张国立", 
 "sex":"男", 
-"email":"zhangguoli@123.com"
-"img": "http://files.jb51.net/image/http.gif", "url":"js/1.html" 
+"email":"zhangguoli@123.com",
+"img": "http://files.jb51.net/image/http.gif",
+"url":"js/1.html" 
 }, 
 { 
 "name":"张铁林", 
 "sex":"男", 
-"email":"zhangtieli@123.com"
-"img": "http://files.jb51.net/image/jbzj.gif", "url":"js/2.html" 
+"email":"zhangtieli@123.com",
+"img": "http://files.jb51.net/image/jbzj.gif",
+ "url":"js/2.html" 
 }, 
 { 
 "name":"邓婕", 
 "sex":"女", 
-"email":"zhenjie@123.com"
- "img": "http://files.jb51.net/image/tengxunyun.jpg", "url":"js/3.html"
+"email":"zhenjie@123.com",
+ "img": "http://files.jb51.net/image/tengxunyun.jpg",
+ "url":"js/3.html"
 } 
 ] 
